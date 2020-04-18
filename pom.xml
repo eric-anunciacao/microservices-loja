@@ -28,6 +28,7 @@
 		<module>fornecedor</module>
 		<module>loja</module>
 		<module>transportador</module>
+		<module>zuul</module>
 	</modules>
 
 	<dependencies>
