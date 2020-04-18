@@ -27,6 +27,7 @@
 		<module>config-server</module>
 		<module>fornecedor</module>
 		<module>loja</module>
+		<module>transportador</module>
 	</modules>
 
 	<dependencies>
