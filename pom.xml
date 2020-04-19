@@ -29,6 +29,7 @@
 		<module>loja</module>
 		<module>transportador</module>
 		<module>zuul</module>
+		<module>auth</module>
 	</modules>
 
 	<dependencies>
